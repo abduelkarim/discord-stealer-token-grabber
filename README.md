@@ -25,7 +25,7 @@ I will not be held accountable for any illegal activities.
 [Stealer features](https://github.com/Nyxonn/Discord-AIO/blob/main/README.md#stealer-features)<br/>
 [Optional features](https://github.com/Nyxonn/Discord-AIO/blob/main/README.md#optional-stealer-features)<br/>
 [Additional features](https://github.com/Nyxonn/Discord-AIO/blob/main/README.md#additional)<br/>
-[Upcoming features](https://github.com/Nyxonn/Discord-AIO/blob/main/README.md#coming-soon)<br/>
+[Upcoming features](https://github.com/Nyxonn/Discord-AIO/blob/main/README.md#coming-soon)<br/> 
 [Versions](https://github.com/Nyxonn/Discord-AIO/blob/main/README.md#versions)<br/>
 [FAQ](https://github.com/Nyxonn/Discord-AIO/blob/main/README.md#faq)<br/>
 [Showcase](https://github.com/Nyxonn/Discord-AIO/blob/main/README.md#showcase)<br/>
