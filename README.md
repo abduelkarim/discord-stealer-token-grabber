@@ -32,7 +32,7 @@ I will not be held accountable for any illegal activities.
 [Credits](https://github.com/Nyxonn/Discord-AIO/blob/main/README.md#credits)<br/>
 
 ## Features of Discord AIO
-
+ 
 </div>
 
 #### Main features
